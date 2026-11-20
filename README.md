@@ -172,13 +172,7 @@ The environment is partially observable. Since the DQN uses a feedforward neural
 ---
 
 ## Author
-
-Vivek Bhushan
-
-Tanmay Hajela
-
 Shailendar Rawat
 
-Minor Project 2
 
 Autonomous Grid Navigation using Reinforcement Learning
